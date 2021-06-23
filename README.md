@@ -22,3 +22,5 @@ expansion, pressure builds up in piston side, use a 3-way pressure
 regulator to direct the flow after the pressure reaches a certain limit. You
 may decide the limit)<br>
 4. Electro-hydraulics problem 
+<br>
+    <b>Complete descriptions is given in report.(Solution File and Demonstration video included)</b)
