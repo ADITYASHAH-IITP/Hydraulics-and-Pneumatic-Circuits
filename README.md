@@ -27,6 +27,6 @@ may decide the limit)<br>
       <br><br>
       <t><b>   &emsp;Pneumatic Circuits:-</b><br>
       https://cciitpatna-my.sharepoint.com/:f:/g/personal/aditya_2011mt02_iitp_ac_in/EnwsJnlg6CtOvE3A1lQfxpYBUKlwvuq4YymLnaHT67ncAg?e=f2epRT
-      <br><br><br>
+      <br><br>
       <t><b>   &emsp;Hydraulics Circuits:-</b><br>
         https://cciitpatna-my.sharepoint.com/:f:/g/personal/aditya_2011mt02_iitp_ac_in/EsXMxyNOpfVFlTgMxKVq5xMBZJhrf-6A_kZUt1iMS_LHrQ?e=1sjGlT
